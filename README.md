@@ -6,13 +6,10 @@
 
 ## 🌸 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFSP Campus Jacareí, apaixonada por tecnologia e pelo universo do desenvolvimento.
-
-Estou construindo minha base técnica em HTML, CSS, Python e MySQL, transformando cada desafio em aprendizado e cada projeto em evolução.
-
+Estudante de Análise e Desenvolvimento de Sistemas no IFSP Campus Jacareí, atuando como estagiária de TI, apaixonada por tecnologia e pelo universo do desenvolvimento.
+Aplico na prática minha base técnica em HTML, CSS, Python e MySQL, unindo suporte de TI e desenvolvimento web no dia a dia, transformando cada desafio em aprendizado e cada projeto em evolução.
 Acredito que tecnologia é sobre resolver problemas reais e é com esse propósito que me dedico todos os dias.
 
----
 
 ## 💻 Tech Stack
 
