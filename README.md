@@ -11,7 +11,7 @@ Aplico na prática minha base técnica em HTML, CSS, Python e MySQL, unindo supo
 Acredito que tecnologia é sobre resolver problemas reais e é com esse propósito que me dedico todos os dias.
 
 
-## 💻 Tech Stack
+## 💻 Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-F4C0D1?style=for-the-badge&logo=html5&logoColor=993556)
 ![CSS3](https://img.shields.io/badge/CSS3-F4C0D1?style=for-the-badge&logo=css3&logoColor=993556)
@@ -22,7 +22,7 @@ Acredito que tecnologia é sobre resolver problemas reais e é com esse propósi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaclarapastorsilva&show_icons=true&theme=rose_pine&title_color=993556&icon_color=D4537E&text_color=2a1018&bg_color=fff0f4&border_color=F4C0D1&hide_border=false" />
