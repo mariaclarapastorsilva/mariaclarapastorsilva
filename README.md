@@ -33,12 +33,12 @@ Acredito que tecnologia é sobre resolver problemas reais e é com esse propósi
 
 ## 🌸 Projetos em destaque
 
-- 📚 **[Controle de Acesso – Biblioteca IFSP](https://github.com/mariaclarapastorsilva/library-management-system)** — Registro de entrada e saída nas máquinas da biblioteca do IFSP Jacareí, com painel web e relatórios (Python, Flask, Tkinter, SQLite)
-- 🤚 **[HelpHer](https://github.com/camilaribeirox/HelpHer)** — Reconhecimento do Gesto Universal de Ajuda em vídeo com visão computacional e redes LSTM (PIBIFSP)
-- 🏋️ **[Centro Esportivo](https://github.com/camilaribeirox/CentroEsportivo)** — Sistema de centro esportivo desenvolvido para Banco de Dados 2 (Python)
-- 💻 **[ITtrack](https://github.com/mariaclarapastorsilva/ItTrack)** — Solução acessível para gestão e empréstimo de equipamentos de TI (Python)
-- 🥗 **[NutriPlanner](https://github.com/helenavieiranasc/NutriPlanner)** — Sistema de automação de cálculos e gestão de pacientes para otimizar o atendimento nutricional
-- 🌐 **[DevWebIf](https://github.com/mariaclarapastorsilva/DevWebIf)** — Atividades e estudos de Desenvolvimento Web (HTML e CSS)
+- **[Controle de Acesso – Biblioteca IFSP](https://github.com/mariaclarapastorsilva/library-management-system)** — Registro de entrada e saída nas máquinas da biblioteca do IFSP Jacareí, com painel web e relatórios (Python, Flask, Tkinter, SQLite)
+- **[HelpHer](https://github.com/camilaribeirox/HelpHer)** — Reconhecimento do Gesto Universal de Ajuda em vídeo com visão computacional e redes LSTM (PIBIFSP)
+- **[Paralelismo em Java](https://github.com/helenavieiranasc/ParalelismoJavaIF)** — Análise paralela de milhões de transações financeiras com ExecutorService e afinidade de processador (Java)
+- **[Centro Esportivo](https://github.com/camilaribeirox/CentroEsportivo)** — Sistema de centro esportivo desenvolvido para Banco de Dados 2 (Python)
+- **[ITtrack](https://github.com/mariaclarapastorsilva/ItTrack)** — Solução acessível para gestão e empréstimo de equipamentos de TI (Python)
+- **[NutriPlanner](https://github.com/helenavieiranasc/NutriPlanner)** — Sistema de automação de cálculos e gestão de pacientes para otimizar o atendimento nutricional
 
 ---
 
