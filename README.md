@@ -21,7 +21,6 @@ Acredito que tecnologia é sobre resolver problemas reais e é com esse propósi
 ![MySQL](https://img.shields.io/badge/MySQL-F4C0D1?style=for-the-badge&logo=mysql&logoColor=993556)
 ![OpenCV](https://img.shields.io/badge/OpenCV-F4C0D1?style=for-the-badge&logo=opencv&logoColor=993556)
 ![Linux](https://img.shields.io/badge/Linux-F4C0D1?style=for-the-badge&logo=linux&logoColor=993556)
-![GitHub](https://img.shields.io/badge/GitHub-F4C0D1?style=for-the-badge&logo=github&logoColor=993556)
 
 ---
 
