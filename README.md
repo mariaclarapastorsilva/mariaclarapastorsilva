@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=993556&height=200&section=header&text=Olá!%20Eu%20sou%20a%20Maria%20Clara&fontSize=40&fontColor=fff0f4&desc=Estudante%20de%20ADS%20%7C%20IFSP%20Jacareí&descAlignY=65&descSize=18&fontAlignY=38)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=993556&height=200&section=header&text=Olá!%20Eu%20sou%20a%20Maria%20Clara&fontSize=40&fontColor=fff0f4&desc=Desenvolvedora%20de%20Software&descAlignY=65&descSize=18&fontAlignY=38)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mariaclarapastorsilva&color=993556&style=flat-square&label=Visitantes" alt="visitors" />
