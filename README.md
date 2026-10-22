@@ -26,15 +26,19 @@ Acredito que tecnologia é sobre resolver problemas reais e é com esse propósi
 
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaclarapastorsilva&show_icons=true&theme=rose_pine&title_color=993556&icon_color=D4537E&text_color=2a1018&bg_color=fff0f4&border_color=F4C0D1&hide_border=false" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclarapastorsilva&layout=compact&theme=rose_pine&title_color=993556&text_color=2a1018&bg_color=fff0f4&border_color=F4C0D1" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclarapastorsilva&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&cache_seconds=14400&theme=rose_pine&title_color=993556&text_color=2a1018&bg_color=fff0f4&border_color=F4C0D1" />
 </p>
 
 ---
 
 ## 🌸 Projetos em destaque
 
+- 📚 **[Controle de Acesso – Biblioteca IFSP](https://github.com/mariaclarapastorsilva/library-management-system)** — Registro de entrada e saída nas máquinas da biblioteca do IFSP Jacareí, com painel web e relatórios (Python, Flask, Tkinter, SQLite)
+- 🤚 **[HelpHer](https://github.com/camilaribeirox/HelpHer)** — Reconhecimento do Gesto Universal de Ajuda em vídeo com visão computacional e redes LSTM (PIBIFSP)
+- 🏋️ **[Centro Esportivo](https://github.com/camilaribeirox/CentroEsportivo)** — Sistema de centro esportivo desenvolvido para Banco de Dados 2 (Python)
+- 💻 **[ITtrack](https://github.com/mariaclarapastorsilva/ItTrack)** — Solução acessível para gestão e empréstimo de equipamentos de TI (Python)
 - 🥗 **[NutriPlanner](https://github.com/helenavieiranasc/NutriPlanner)** — Sistema de automação de cálculos e gestão de pacientes para otimizar o atendimento nutricional
-- 💻 **[ITtrack](https://github.com/mariaclarapastorsilva/ItTrack)** — Solução acessível para gestão e empréstimo de equipamentos de TI
+- 🌐 **[DevWebIf](https://github.com/mariaclarapastorsilva/DevWebIf)** — Atividades e estudos de Desenvolvimento Web (HTML e CSS)
 
 ---
 
