@@ -33,7 +33,7 @@ Acredito que tecnologia é sobre resolver problemas reais e é com esse propósi
 
 ## 🌸 Projetos em destaque
 
-- 🥗 **[https://github.com/helenavieiranasc/NutriPlanner)** — Sistema de automação de cálculos e gestão de pacientes para otimizar o atendimento nutricional
+- 🥗 **[NutriPlanner](https://github.com/helenavieiranasc/NutriPlanner)** — Sistema de automação de cálculos e gestão de pacientes para otimizar o atendimento nutricional
 - 💻 **[ITtrack](https://github.com/mariaclarapastorsilva/ItTrack)** — Solução acessível para gestão e empréstimo de equipamentos de TI
 
 ---
