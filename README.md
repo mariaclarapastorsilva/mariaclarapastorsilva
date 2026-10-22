@@ -14,17 +14,13 @@ Acredito que tecnologia é sobre resolver problemas reais e é com esse propósi
 ## 💻 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-F4C0D1?style=for-the-badge&logo=python&logoColor=993556)
-![Java](https://img.shields.io/badge/Java-F4C0D1?style=for-the-badge&logo=openjdk&logoColor=993556)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F4C0D1?style=for-the-badge&logo=javascript&logoColor=993556)
 ![HTML5](https://img.shields.io/badge/HTML5-F4C0D1?style=for-the-badge&logo=html5&logoColor=993556)
 ![CSS3](https://img.shields.io/badge/CSS3-F4C0D1?style=for-the-badge&logo=css3&logoColor=993556)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-F4C0D1?style=for-the-badge&logo=bootstrap&logoColor=993556)
 ![Flask](https://img.shields.io/badge/Flask-F4C0D1?style=for-the-badge&logo=flask&logoColor=993556)
 ![MySQL](https://img.shields.io/badge/MySQL-F4C0D1?style=for-the-badge&logo=mysql&logoColor=993556)
-![SQLite](https://img.shields.io/badge/SQLite-F4C0D1?style=for-the-badge&logo=sqlite&logoColor=993556)
 ![OpenCV](https://img.shields.io/badge/OpenCV-F4C0D1?style=for-the-badge&logo=opencv&logoColor=993556)
 ![Linux](https://img.shields.io/badge/Linux-F4C0D1?style=for-the-badge&logo=linux&logoColor=993556)
-![Git](https://img.shields.io/badge/Git-F4C0D1?style=for-the-badge&logo=git&logoColor=993556)
 ![GitHub](https://img.shields.io/badge/GitHub-F4C0D1?style=for-the-badge&logo=github&logoColor=993556)
 
 ---
