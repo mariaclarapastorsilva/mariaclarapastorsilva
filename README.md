@@ -36,6 +36,7 @@ Acredito que tecnologia é sobre resolver problemas reais e é com esse propósi
 ## 🌸 Projetos em destaque
 
 - **[Controle de Acesso – Biblioteca IFSP](https://github.com/mariaclarapastorsilva/library-management-system)** — Registro de entrada e saída nas máquinas da biblioteca do IFSP Jacareí, com painel web e relatórios (Python, Flask, Tkinter, SQLite)
+- **[HackaIF](https://github.com/helenavieiranasc/HackathonIF)** — Site do Hackathon da 23ª Semana de Ciência e Tecnologia do IFSP Jacareí, publicado no GitHub Pages ([ver no ar](https://helenavieiranasc.github.io/HackathonIF/)) (HTML, CSS, JavaScript)
 - **[HelpHer](https://github.com/camilaribeirox/HelpHer)** — Reconhecimento do Gesto Universal de Ajuda em vídeo com visão computacional e redes LSTM (PIBIFSP)
 - **[Paralelismo em Java](https://github.com/helenavieiranasc/ParalelismoJavaIF)** — Análise paralela de milhões de transações financeiras com ExecutorService e afinidade de processador (Java)
 - **[Centro Esportivo](https://github.com/camilaribeirox/CentroEsportivo)** — Sistema de centro esportivo desenvolvido para Banco de Dados 2 (Python)
