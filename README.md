@@ -35,6 +35,7 @@ Acredito que tecnologia é sobre resolver problemas reais e é com esse propósi
 
 ## 🌸 Projetos em destaque
 
+- **[AstrAce](https://github.com/helenavieiranasc/AstrAce)** — Plataforma web de visibilidade e inclusão de meninas e mulheres na ciência, com mural de projetos, eventos, vagas afirmativas e passaporte 3D. 🥈 2º lugar no HackaIF Ciência Delas 2026 ([ver no ar](https://helenavieira.pythonanywhere.com)) (Python, Flask, TypeScript, Three.js)
 - **[Controle de Acesso – Biblioteca IFSP](https://github.com/mariaclarapastorsilva/library-management-system)** — Registro de entrada e saída nas máquinas da biblioteca do IFSP Jacareí, com painel web e relatórios (Python, Flask, Tkinter, SQLite)
 - **[HackaIF](https://github.com/helenavieiranasc/HackathonIF)** — Site do Hackathon da 23ª Semana de Ciência e Tecnologia do IFSP Jacareí, publicado no GitHub Pages ([ver no ar](https://helenavieiranasc.github.io/HackathonIF/)) (HTML, CSS, JavaScript)
 - **[HelpHer](https://github.com/camilaribeirox/HelpHer)** — Reconhecimento do Gesto Universal de Ajuda em vídeo com visão computacional e redes LSTM (PIBIFSP)
