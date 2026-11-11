@@ -24,15 +24,6 @@ Acredito que tecnologia é sobre resolver problemas reais e é com esse propósi
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaclarapastorsilva&show_icons=true&theme=rose_pine&title_color=993556&icon_color=D4537E&text_color=2a1018&bg_color=fff0f4&border_color=F4C0D1&hide_border=false" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclarapastorsilva&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&cache_seconds=14400&theme=rose_pine&title_color=993556&text_color=2a1018&bg_color=fff0f4&border_color=F4C0D1" />
-</p>
-
----
-
 ## 🌸 Projetos em destaque
 
 - **[AstrAce](https://github.com/helenavieiranasc/AstrAce)** — Plataforma web de visibilidade e inclusão de meninas e mulheres na ciência, com mural de projetos, eventos, vagas afirmativas e passaporte 3D. 🥈 2º lugar no HackaIF Ciência Delas 2026 ([ver no ar](https://helenavieira.pythonanywhere.com)) (Python, Flask, TypeScript, Three.js)
